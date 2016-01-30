@@ -1,0 +1,25 @@
+{
+    "name": "fake-store-server",
+    "version": "1.0.0",
+    "description": "Fake server that will provide data of a fake department store",
+    "main": "index.js",
+    "dependencies": {
+        "json-server": "0.8.7"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/alejandronanez/fake-store-server.git"
+    },
+    "keywords": ["server", "node", "rest"],
+    "author": "Alejandro Nanez Ortiz <alejonanez@gmail.com> (http://github.com/alejandronanez)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/alejandronanez/fake-store-server/issues"
+    },
+    "homepage": "https://github.com/alejandronanez/fake-store-server#readme",
+    "engine": "node >= 4.2.6"
+}
