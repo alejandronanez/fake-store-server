@@ -1,6 +1,6 @@
 {
   "name": "fake-store-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fake server that will provide data of a fake department store",
   "main": "index.js",
   "dependencies": {
